@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/SMH_UI_Test.csproj": {}
+  },
+  "projects": {
+    "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/SMH_UI_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/SMH_UI_Test.csproj",
+        "projectName": "SMH_UI_Test",
+        "projectPath": "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/SMH_UI_Test.csproj",
+        "packagesPath": "/home/grifisaa/.nuget/packages/",
+        "outputPath": "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/grifisaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMQwIYt7chPjcXPplOq2quWKwWCbeZ5MRJpC0ysla4UQVAOPy2KLFzFO+3rWKHsnJXLYuMvzsX6t0scpYeTNyg==",
+  "success": true,
+  "projectFilePath": "/home/git/xrese/shared-mental-health/SharedMentalHealth/SMH_UI_Test/SMH_UI_Test.csproj",
+  "expectedPackageFiles": [
+    "/home/grifisaa/.nuget/packages/nunit/2.6.4/nunit.2.6.4.nupkg.sha512",
+    "/home/grifisaa/.nuget/packages/xamarin.uitest/2.2.4/xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
