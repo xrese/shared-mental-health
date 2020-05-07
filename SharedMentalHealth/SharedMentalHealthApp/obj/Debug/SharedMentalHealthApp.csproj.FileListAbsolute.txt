@@ -1,9 +1,0 @@
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/MonoAndroid,Version=v8.0.AssemblyAttributes.cs
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/build.props
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/adb.props
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/SharedMentalHealthApp.csprojAssemblyReference.cache
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/resourcepaths.cache
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/res.flag
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/flata/compiled.flata
-/home/git/xrese/shared-mental-health/SharedMentalHealth/SharedMentalHealthApp/obj/Debug/flata/compiled.stamp
